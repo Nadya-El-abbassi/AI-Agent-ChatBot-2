@@ -53,7 +53,7 @@ OPENAI_API_KEY=<votre_cle_api_openai>
 mvn clean install
 mvn spring-boot:run
 ```
-
+<img src="images/img.png">
 ---
 
 ## Gestion des erreurs
